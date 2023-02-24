@@ -24,11 +24,11 @@ export default function Home() {
           <HeroImage name="whatsapp.svg" width={30} height={100} />
         </a>
 
-        <a href="">
+        <a href="https://t.me/MagnoSiqueira7">
           <HeroImage name="telegram.svg" width={30} height={100} />
         </a>
 
-        <a href="mailto:magnosiqueira.s@gmail.com">
+        <a href="mailto:magnosiqueira.s@hotmail.com">
           <HeroImage name="email.svg" width={30} height={100} />
         </a>
       </div>
